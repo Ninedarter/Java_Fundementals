@@ -1,0 +1,4 @@
+Tomas;21;184
+Darius;35;201
+Lina;24;198
+Igoris;55;165

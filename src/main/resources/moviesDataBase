@@ -1,0 +1,101 @@
+id,name,genre,creator,country,budget,year
+1,"Teenage",Documentary,Maciaszczyk,Costa Rica,560021,1993
+2,"Three Wise Fools",Comedy|Drama,Kaliszewski,Namibia,633228,1992
+3,"Hallåhallå",Comedy,Bagot,Indonesia,628353,2012
+4,"The Rocket",Drama,Sporle,United States,726417,2009
+5,"Knucklehead",Comedy|Drama,Brion,Uruguay,410125,2008
+6,"Krakatoa, East of Java",Adventure|Drama,Lindwasser,France,978467,1992
+7,"Justin and the Knights of Valour",Adventure|Animation,Showell,Japan,937942,1999
+8,"Rough Night in Jericho,Western",Rubinlicht,China,947535,1999
+9,"Murder Party",Comedy|Drama|Horror|Thriller,Gregon,Philippines,360529,1987
+10,"The Ref",Comedy,Joliffe,Libya,442976,1987
+11,"Always",Comedy|Drama,Sell,Argentina,374137,2010
+12,"Mantrap",Comedy,Rugge,China,538073,1994
+13,"The Descent: Part 2",Adventure|Horror|Thriller,Boykett,Brazil,883244,1990
+14,"Hatchet for the Honeymoon (Rosso segno della follia, Il)",Fantasy|Horror|Thriller,Paffley,Sweden,771912,2002
+15,"The Pallbearer",Comedy,Gallagher,China,925039,2008
+16,"Taste of Cherry, (Ta'm e guilass)",Drama,Bold,Ukraine,739727,2007
+17,"Kummeli Goldrush (Kummeli kultakuume)",Comedy,Adolfsen,Philippines,970816,1994
+18,"Cell 211 (Celda 211)",Action|Drama,Cicculi,Peru,729286,1993
+19,"Cathy Come Home",Drama,Triswell,Mauritius,616077,1993
+20,"Backlight",Drama|Sci-Fi|Thriller,Southwood,China,963515,2007
+21,"Father of Invention",Comedy|Drama,Doree,Norway,907515,2012
+22,"American Outlaws",Action|Comedy|Western,Sink,Russia,855636,2011
+23,"Little City",Comedy|Romance,Qualtro,China,471246,1993
+24,"Private Fears in Public Places (Coeurs)",Drama|Romance,Brabon,France,543129,2003
+25,"Crimes of the Future",Comedy|Sci-Fi,Hockey,United States,25545,1996
+26,"The Mummy",Action|Adventure|Comedy|Fantasy|Horror|Thriller,Tantrum,Indonesia,77749,1986
+27,"Madadayo (a.k.a. Not Yet)",Drama,Shalloe,Philippines,668631,1996
+28,"Surrogates",Action|Sci-Fi|Thriller,Mathis,Indonesia,363917,2006
+29,"The Holy Man (Mahapurush)",Comedy,Samudio,Japan,33954,2006
+30,"Animal Factory",Crime|Drama,Feehily,Tunisia,607592,1993
+31,"Hollow Reed",Drama,Blunsom,Poland,154155,2012
+32,"Used People",Comedy|Drama,Najara,Indonesia,70738,2003
+33,"Patience (After Sebald)",Documentary,Jenoure,China,454721,2007
+34,"Film ist.",Documentary,Murra,China,327306,2011
+35,"North and South, Book I",Drama|Romance|War,Piner,Czech Republic,423216,2009
+36,"Shutter",Fantasy|Horror|Mystery|Thriller,Petracchi,Peru,457056,2008
+37,"Cherish",Comedy|Drama|Thriller,Peyntue,Myanmar,248579,1991
+38,"One Week",Adventure|Drama,Clibbery,Serbia,313460,1992
+39,"Pirates of Silicon Valley",Documentary|Drama,Florio,Canada,684076,2003
+40,"Count Three and Pray",Drama|Western,Pedrollo,New Zealand,221592,1996
+41,"Toy Story Toons: Hawaiian Vacation",Adventure|Animation|Children|Comedy|Fantasy,Templeton,China,725664,2005
+42,"10.5: Apocalypse",Drama|Sci-Fi|Thriller,Munford,Palestinian Territory,188459,2010
+43,"Soul Surfer",Action|Drama,McCorry,Indonesia,559118,2006
+44,"1984 (Nineteen Eighty-Four)",Drama|Sci-Fi,Brandel,Sweden,343774,2005
+45,"The White Angel(L'angelo bianco)",Drama,Potteril,Indonesia,823345,2000
+46,"Deep Blue",Documentary,Ewens,Indonesia,757328,1999
+47,"Notre jour viendra",Drama,Senussi,Indonesia,620203,2007
+48,"The Day of  the Doctor",Adventure|Drama|Sci-Fi,Pettecrew,Sweden,528114,2001
+49,"Heaven and Earth (Ten to Chi to)",Action|Adventure|Drama|War,Dowdle,Philippines,149118,1995
+50,"ABC Africa",Documentary,Tesche,Japan,875293,1991
+51,"The Divorce of Lady X T",Comedy|Romance,Farahar,China,171957,1991
+52,"Scream, Blacula, Scream!",Horror,Shute,Puerto Rico,554219,2005
+53,"Heart in Winter, A (Un coeur en hiver)",Drama|Romance,Shilstone,Indonesia,858977,2009
+54,"The Punk Syndrome(Kovasikajuttu)",Documentary,Ajsik,Iran,115353,1996
+55,"The Linguists",Documentary,Stilling,France,935660,1995
+56,"The Man from Down Under",Drama,Clues,Sweden,629695,2012
+57,"Bit by Bit",(no genres listed),Grelik,Denmark,770652,2003
+58,"The Castle of Fu Manchu",Action|Crime|Horror,Dmytryk,Russia,562948,1986
+59,"Blue Juice",Comedy|Drama,D'orsay,Portugal,377620,2008
+60,"Fort McCoy",(no genres listed),Antony,Botswana,309960,1998
+61,"The Yellow Handkerchief",Drama|Romance,O'Scollee,Sierra Leone,613181,1990
+62,"Breathing Fire",Action,Abba,Palestinian Territory,304997,2003
+63,"Deep End",Comedy|Drama|Romance,Bosanko,Japan,472789,2001
+64,"Back Street",Drama,Knutton,China,628143,2004
+65,"J. Edgar",Drama,Crisall,Serbia,522021,1995
+66,"Giorgino",Adventure|Drama|Horror,Eakley,France,941065,1968
+67,"The Woman",Comedy,Parlett,China,853877,2012
+68,"Enquiring Minds: The Untold Story of the Man Behind the National Enquirer",Documentary,Ossipenko,Indonesia,209500,1986
+69,"Pirates of the Caribbean: On Stranger Tides",Action|Adventure|Fantasy|IMAX,O'Harney,Ecuador,855163,2006
+70,"Ju-on: The Beginning of the End (Ju-on: Owari no hajimari)",Horror,Bernardoux,China,727539,2006
+71,"Olivier, Olivier",Drama,Dunsmuir,Netherlands,147074,2009
+72,"National Lampoon's Cattle Call (Cattle Call)",Comedy,Ninnoli,Greece,22987,2002
+73,"9",Animation|Fantasy,Smullin,China,840202,2009
+74,"Silent Rage",Action|Sci-Fi,Joinsey,Serbia,577505,2003
+75,"The Unholy Three",Crime|Drama,Tombling,Indonesia,833216,2003
+76,"The Front",Comedy|Drama,Nathan,Sweden,977866,2009
+77,"The Guilty of Romance (Koi no tsumi)" ,Crime|Drama|Horror,Steet,Greece,395401,1993
+78,"Fetishes",Documentary,Weatherup,China,326780,2007
+79,"48 Hrs.",Action|Comedy|Crime|Drama,Coggins,Thailand,609441,2008
+80,"From Hell It Came",Horror,Kernan,Thailand,256900,2008
+81,"Dorian Blues",Comedy,Lorking,Ireland,250808,2010
+82,"So It Goes (Korsoteoria)",Drama,Gailor,Indonesia,307430,1985
+83,"Trial by Jury",Crime|Drama|Thriller,Larrington,Australia,680893,1992
+84,"All Good Things",Drama|Mystery|Thriller,Bourcq,Finland,136345,1997
+85,"Leave The World Behind",Documentary,Griston,Russia,422951,1992
+86,"Dante 01",Sci-Fi|Thriller,Olivetta,Russia,989615,1992
+87,"The Goat",Comedy,Lautie,Costa Rica,225680,2009
+88,"American Zombie",Comedy|Horror,Gianni,Portugal,492408,2000
+89,"Digging to China",Drama,Everington,Portugal,293765,1994
+90,"The Last Kiss(Ultimo bacio, L')",Comedy|Drama|Romance,Ripsher,China,662383,1962
+91,"The Wild Bees (Divoké vcely)",Comedy|Drama,Lainge,Sierra Leone,865463,1995
+92,"The Dungeon Masters",Documentary,Casarino,South Africa,31517,2008
+93,"1981",Comedy|Drama|Romance,Manketell,Sweden,255091,2012
+94,"And Soon the Darkness",Horror|Thriller,Suggitt,Peru,9578,1987
+95,"The American Soldier (Der amerikanische Soldat)",Drama,Westmacott,Peru,420878,1997
+96,"The Life and Times of Hank Greenberg",Documentary,Meneux,Japan,617052,2002
+97,"Traffic Affairs (Mitfahrer)",Drama,Pedro,Philippines,921324,1990
+98,"Ballermann 6",Comedy,O'Mailey,Afghanistan,835923,2008
+99,"The Seven-Per-Cent Solution",Adventure|Comedy|Crime|Drama|Mystery|Thriller,Shingles,Brazil,620550,1997
+100,"Ann Carver's Profession",Drama,Quincey,Brazil,382368,2007

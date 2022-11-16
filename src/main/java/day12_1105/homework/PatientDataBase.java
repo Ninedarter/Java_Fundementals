@@ -16,7 +16,7 @@ public class PatientDataBase {
      */
     public static final String PATH_TO_FILE = "src/main/resources/DataBasePatients";
 
-    public ArrayList<Patient> getPatientDataBase() throws IOException {
+    public  ArrayList<Patient> getPatientDataBase() throws IOException {
         ArrayList<Patient> patientsList = new ArrayList<>();
         FileReader fileReader = new FileReader(PATH_TO_FILE);
         BufferedReader bufferedReader = new BufferedReader(fileReader);
@@ -27,7 +27,7 @@ public class PatientDataBase {
             lineReaded = bufferedReader.readLine();
         }
         for (String patient : rawData) {
-            String[] dataSplitted = patient.split(",");
+            String[] dataSplitted = patient.split("/");
             String name = dataSplitted[0];
             int age = Integer.parseInt(dataSplitted[1]);
             String bloodType = dataSplitted[2];
@@ -38,6 +38,4 @@ public class PatientDataBase {
         }
         return patientsList;
     }
-
-
 }

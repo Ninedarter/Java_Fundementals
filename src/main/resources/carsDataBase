@@ -1,0 +1,101 @@
+id,brand,model,color,weight,country,createdDate
+1,Chrysler,Concorde,Goldenrod,4864,Croatia,2019-08-24
+2,Jaguar,XJ Series,Pink,2795,Poland,2015-11-07
+3,Mitsubishi,Mirage,Blue,529,Latvia,2014-06-30
+4,Honda,Element,Teal,1235,Indonesia,2012-07-24
+5,Lexus,IS-F,Khaki,1446,Russia,2022-07-28
+6,GMC,Savana 1500,Mauv,2076,China,2005-06-25
+7,Mercedes-Benz,300TE,Crimson,652,Indonesia,2016-03-31
+8,Audi,A8,Mauv,1468,Peru,2011-07-12
+9,Ford,F-Series,Red,1818,Mexico,2007-01-30
+10,Cadillac,Escalade EXT,Green,1684,France,2007-12-18
+11,Honda,Passport,Blue,3113,Russia,2013-04-06
+12,Mitsubishi,Galant,Turquoise,2115,Ukraine,2022-01-25
+13,Volkswagen,Scirocco,Indigo,3514,China,2019-07-14
+14,Mazda,B-Series,Puce,2283,France,2017-03-28
+15,Toyota,Prius,Mauv,1964,Thailand,2018-01-11
+16,BMW,330,Mauv,699,Brazil,2012-11-26
+17,Maybach,62,Aquamarine,1673,Netherlands,2008-08-26
+18,Ford,Taurus,Crimson,4191,Indonesia,2016-10-06
+19,Buick,LaCrosse,Aquamarine,4382,Portugal,2015-07-09
+20,Infiniti,G,Pink,1621,China,2001-03-14
+21,Buick,LeSabre,Purple,4823,Japan,2004-09-10
+22,Volkswagen,Passat,Khaki,3089,Panama,2010-03-14
+23,Bentley,Continental Flying Spur,Crimson,1972,Honduras,2005-03-03
+24,Porsche,968,Mauv,1159,China,2021-01-08
+25,GMC,Sierra 3500,Crimson,3225,Indonesia,2012-06-13
+26,Dodge,Dakota Club,Goldenrod,2732,Norway,2016-06-30
+27,Kia,Sportage,Indigo,2738,Japan,2020-05-01
+28,Maserati,Quattroporte,Yellow,823,China,2015-12-03
+29,Mazda,MPV,Yellow,4744,Russia,2020-04-24
+30,Mitsubishi,Mighty Max,Orange,2069,China,2004-03-18
+31,Isuzu,Stylus,Blue,3127,Peru,2011-04-03
+32,Toyota,4Runner,Mauv,755,Indonesia,2022-03-13
+33,Jeep,Compass,Blue,2987,Japan,2004-02-01
+34,Porsche,911,Orange,1646,Argentina,2016-08-02
+35,Volvo,C30,Green,3259,Indonesia,2006-04-05
+36,Aptera,2e,Turquoise,4040,China,2004-10-05
+37,Lexus,LX,Aquamarine,4599,Dominican Republic,2003-12-03
+38,Spyker,C8 Double 12 S,Aquamarine,4725,Russia,2011-12-05
+39,Toyota,Tacoma Xtra,Maroon,2765,South Africa,2010-07-22
+40,Jaguar,XK,Fuscia,1271,Afghanistan,2003-04-09
+41,Nissan,GT-R,Turquoise,1724,China,2012-08-14
+42,Hyundai,Tiburon,Orange,2862,China,2001-07-21
+43,Ford,Explorer Sport Trac,Khaki,4578,Venezuela,2002-11-29
+44,Chevrolet,Avalanche 1500,Blue,2403,Indonesia,2010-09-20
+45,BMW,X6,Mauv,3847,Bolivia,2021-06-22
+46,Nissan,350Z,Crimson,1123,Canada,2022-08-29
+47,Audi,A6,Puce,4114,Russia,2006-02-21
+48,Buick,Skylark,Indigo,670,Colombia,2019-01-01
+49,Jaguar,XK Series,Pink,800,China,2015-11-27
+50,Chrysler,Town & Country,Crimson,863,North Korea,2021-10-18
+51,Rolls-Royce,Phantom,Turquoise,3090,Germany,2009-05-17
+52,Chevrolet,Silverado 2500,Indigo,3480,Finland,2022-10-13
+53,Lexus,GS,Teal,2228,China,2005-09-10
+54,Chevrolet,Silverado,Pink,614,Panama,2004-07-04
+55,Pontiac,Grand Prix,Blue,4759,Syria,2019-03-13
+56,Mazda,MX-6,Yellow,3286,Philippines,2013-01-16
+57,Maybach,62,Yellow,1197,Philippines,2014-02-06
+58,Volkswagen,Eos,Purple,4612,Thailand,2004-07-10
+59,Oldsmobile,Toronado,Khaki,1977,Morocco,2015-04-16
+60,Mercedes-Benz,E-Class,Aquamarine,1793,South Africa,2006-03-17
+61,Jaguar,XJ Series,Turquoise,3164,China,2010-09-09
+62,Chevrolet,Malibu,Fuscia,779,Canada,2021-10-30
+63,Saturn,Outlook,Turquoise,2617,Indonesia,2002-04-25
+64,Isuzu,i-290,Turquoise,984,China,2016-03-05
+65,Buick,Park Avenue,Khaki,755,Indonesia,2001-07-20
+66,Plymouth,Neon,Pink,1121,South Africa,2017-06-25
+67,BMW,7 Series,Mauv,1927,Brazil,2013-02-27
+68,Studebaker,Avanti,Goldenrod,810,Japan,2001-04-30
+69,Porsche,944,Red,881,China,2013-12-19
+70,Ford,F250,Khaki,3571,Poland,2005-12-02
+71,Oldsmobile,Silhouette,Mauv,1416,Malawi,2013-06-03
+72,Oldsmobile,Cutlass Cruiser,Crimson,3381,Peru,2019-11-04
+73,Nissan,Altima,Yellow,1670,Portugal,2007-11-29
+74,Chevrolet,3500,Fuscia,2643,Argentina,2001-12-13
+75,Cadillac,Escalade,Goldenrod,3774,Poland,2002-11-24
+76,Mazda,RX-8,Red,1404,Lithuania,2007-05-24
+77,Audi,A8,Turquoise,3877,Poland,2022-06-12
+78,Nissan,Murano,Crimson,2017,Philippines,2003-01-02
+79,Toyota,RAV4,Turquoise,4630,China,2013-04-15
+80,Volkswagen,Touareg,Mauv,1187,China,2019-08-05
+81,Toyota,Prius,Maroon,2250,Czech Republic,2004-03-02
+82,Mercedes-Benz,C-Class,Red,1747,France,2018-02-27
+83,BMW,X5 M,Red,3276,Philippines,2016-02-12
+84,Cadillac,CTS-V,Indigo,2337,Ireland,2019-08-06
+85,Mazda,Mazda5,Yellow,2171,France,2019-04-15
+86,Dodge,Ram Wagon B150,Mauv,909,China,2010-08-08
+87,Subaru,Outback,Turquoise,4650,Japan,2005-02-25
+88,GMC,3500 Club Coupe,Mauv,4842,China,2012-06-28
+89,Pontiac,Grand Prix,Crimson,1323,China,2019-08-03
+90,Mazda,Miata MX-5,Puce,3580,Poland,2012-12-24
+91,Saturn,VUE,Fuscia,1001,China,2020-11-21
+92,Aston Martin,V8 Vantage,Mauv,2161,Philippines,2002-09-06
+93,Volvo,S40,Aquamarine,1301,Estonia,2004-01-03
+94,Ford,Fairlane,Red,574,China,2003-09-18
+95,BMW,5 Series,Pink,4908,Vietnam,2001-04-15
+96,Jeep,Liberty,Violet,3011,Thailand,2004-05-27
+97,Oldsmobile,Silhouette,Purple,4870,Poland,2004-08-14
+98,Land Rover,LR2,Teal,1617,China,2020-06-08
+99,Buick,Lucerne,Blue,2239,Poland,2004-03-03
+100,Mazda,Tribute,Purple,3027,Netherlands,2020-10-28

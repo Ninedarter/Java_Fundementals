@@ -40,7 +40,6 @@ class PatientServiceTest {
         ArrayList<Patient> oldestPatient = patientService.getOldestPatient(patientArrayList);
         //then
         assertEquals(expectedOldestPatient, oldestPatient);
-
     }
 
     @Test
@@ -49,27 +48,17 @@ class PatientServiceTest {
         ArrayList<Patient> expectedPatient = new ArrayList<>();
         expectedPatient.add(patientArrayList.get(1));
         patientsWhichNamesStartsWithSpecificLetters = patientService.findPatientsWithNamesStartingWith("LI", patientArrayList);
-
         assertEquals(expectedPatient, patientsWhichNamesStartsWithSpecificLetters);
-//        for (Patient singlePatient : patientArrayList) {
-//            if (singlePatient.name.startsWith(lettersGiven.toUpperCase())) {
-//                patientsWhichNamesStartsWithSpecificLetters.add(singlePatient);
-//            }
-//        }
-
-
     }
-
 
     @Test
     void shouldGetTallestPatient() {
-        Patient tallestPatient = patientService.getTallestPatient(patientArrayList);
+        Patient tallestPatient = patientService.getTallestPatient(patientArrayList, false);
         assertEquals(patientArrayList.get(0), tallestPatient);
-
     }
 
     @Test
-    void shouldFindPatientsHeavierThanGivenWeight() {
+    void shouldFindPatientsHeavierThanGivenWeight_WhenWeightIsGiven() {
         //GIVEN
         ArrayList<Patient> expectedPatients = new ArrayList<>();
         expectedPatients.add(patientArrayList.get(0));
@@ -79,25 +68,21 @@ class PatientServiceTest {
         actualPatients = patientService.findPatientsHeavierThanGivenWeight(patientArrayList, 68.0);
         //THEN
         assertEquals(expectedPatients, actualPatients);
-
+        assertEquals(expectedPatients.get(0).weightInKg, actualPatients.get(0).weightInKg);
     }
 
     @Test
-    void shouldGetPatientsWithSpecificBloodType() {
-        String givenBloodType = "B+";
+    void shouldGetPatientsWithSpecificBloodType_WhenBloodTypeIsGiven() {
         ArrayList<Patient> expectedPatientsToBe = new ArrayList<>();
-        ArrayList<Patient> patientsWithSpecificBloodType = new ArrayList<>();
-        for (Patient singlePatient : patientArrayList) {
-            if (singlePatient.bloodType.equals(givenBloodType)) {
-                expectedPatientsToBe.add(singlePatient);
-            }
-        }
-        patientsWithSpecificBloodType = patientService.getPatientsWithSpecificBloodType(patientArrayList, "B+");
+        expectedPatientsToBe.add(patientArrayList.get(0));
+        expectedPatientsToBe.add(patientArrayList.get(2));
+        ArrayList<Patient> patientsWithSpecificBloodType;
+        patientsWithSpecificBloodType = patientService.getPatientsWithSpecificBloodType(patientArrayList, "  B+  ");
         assertEquals(expectedPatientsToBe, patientsWithSpecificBloodType);
     }
 
     @Test
-    void shouldFindPatientsTallerThanGivenHeight() {
+    void shouldFindPatientsTaller_WhenHeightIsGiven() {
         int givenHeight = 160;
         ArrayList<Patient> expectedTallerPatientsThanGivenHeight = new ArrayList<>();
         ArrayList<Patient> actualTallerPatientsThanGivenHeight = new ArrayList<>();
@@ -109,7 +94,5 @@ class PatientServiceTest {
         actualTallerPatientsThanGivenHeight = patientService.findPatientsTallerThanGivenHeight(patientArrayList, 160.0);
         assertEquals(expectedTallerPatientsThanGivenHeight, actualTallerPatientsThanGivenHeight);
     }
-
-
 }
 

@@ -27,6 +27,6 @@ public class Patient {
 
     }
 
-    public Patient() { //prireike susikurt nauja tuscia konstruktoriu,kad nekurti viso PatientService
+    public Patient() {  //prireike susikurt nauja tuscia konstruktoriu,kad nekurti viso Patient ir priskirti tik bloodType
     }
 }
