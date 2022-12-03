@@ -6,7 +6,7 @@ import java.util.ArrayList;
 public class PatientService {
 
     /**
-     * Compares all patients from the ArrayList, to get oldest patient. If there are several, return all of them
+     * Compares all patients from the ArrayList, to get oldest patient.
      *
      * @param patients
      * @return oldest patient as dataType <ArrayList> Patient

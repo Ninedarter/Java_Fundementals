@@ -1,9 +1,6 @@
 package day14_1113_homework;
-
-
 import java.util.ArrayList;
 import java.util.regex.Pattern;
-
 public class MovieService {
 
     public ArrayList<String> getAllMoviesCreator(ArrayList<Movie> moviesFromTheList) {
@@ -70,15 +67,5 @@ public class MovieService {
     return moviesAboveGivenBudged;
     }
 
-    public ArrayList<Movie> findOldestMovie(ArrayList<Movie> movies){
 
-        ArrayList<Movie> oldestMovie = new ArrayList<>();
-
-
-        for (Movie movie : movies) {
-            if
-        }
-
-
-    }
 }

@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Swedbankas",
+    "budged": 650000,
+    "address": "basanaviciaus 20g.",
+    "departments": [
+      {
+        "name": "Back end skyrius",
+        "director": "",
+        "employees": [
+          {
+            "name": "Justas",
+            "seniority": "INTERN",
+            "salary": 3600,
+            "responsibilities": [
+              {
+                "name": "Write UNIT tests",
+                "complexity": "EASY"
+              },
+              {
+                "name": "Read docs",
+                "complexity": "MEDIUM"
+              }
+            ]
+          },
+          {
+            "name": "Eimantas",
+            "seniority": "MID",
+            "salary": 5000,
+            "responsibilities": [
+              {
+                "name": "Write UNIT tests",
+                "complexity": "EASY"
+              },
+              {
+                "name": "Read docs",
+                "complexity": "MEDIUM"
+              },
+              {
+                "name": "Participate in meetings",
+                "complexity": "HARD"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Nortal",
+    "budged": 999999,
+    "address": "Rinktines 5,",
+    "departments": [
+      {
+        "name": "Front end department",
+        "director": "",
+        "employees": [
+          {
+            "name": "Ieva",
+            "seniority": "SENIOR",
+            "salary": 3500,
+            "responsibilities": [
+              {
+                "name": "Make architecture",
+                "complexity": "HARD"
+              },
+              {
+                "name": "Check for bugs",
+                "complexity": "EASY"
+              }
+            ]
+          },
+          {
+            "name": "Martin",
+            "seniority": "SENIOR",
+            "salary": 7000,
+            "responsibilities": [
+              {
+                "name": "Inform director about made project",
+                "complexity": "MEDIUM"
+              },
+              {
+                "name": "Check for bugs",
+                "complexity": "EASY"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
